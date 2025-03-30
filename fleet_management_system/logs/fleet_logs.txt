@@ -1,0 +1,12 @@
+[2025-03-30 22:41:32.099] Spawned robot 0 at vertex 13
+[2025-03-30 22:41:35.428] Assigned robot 0 path: [13, 3, 1]
+[2025-03-30 22:41:35.640] Robot 0 moved to vertex 3
+[2025-03-30 22:41:35.846] Robot 0 moved to vertex 1
+[2025-03-30 22:41:43.421] Spawned robot 1 at vertex 3
+[2025-03-30 22:41:46.996] Assigned robot 1 path: [3, 1, 10]
+[2025-03-30 22:41:49.729] Assigned robot 0 path: [1, 10]
+[2025-03-30 22:41:49.936] Robot 0 moved to vertex 10
+[2025-03-30 22:41:50.141] Robot 1 moved to vertex 1
+[2025-03-30 22:41:52.572] Assigned robot 0 path: [10, 0]
+[2025-03-30 22:41:52.624] Robot 0 moved to vertex 0
+[2025-03-30 22:41:52.829] Robot 1 moved to vertex 10
