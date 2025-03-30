@@ -3,8 +3,8 @@
 
 Robot Control:
   
-  Press S to enable Spawn mode
-  
-  Left-click any vertex to spawn a robot
-  
-  Select robot → Select destination to assign path
+    Press S to enable Spawn mode
+    
+    Left-click any vertex to spawn a robot
+    
+    Select robot → Select destination to assign path
